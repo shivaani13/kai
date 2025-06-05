@@ -9,9 +9,9 @@ readme = "README.md"
 dynamic = ["version"]
 dependencies = [
     # "frappe~=15.0.0" # Installed and managed by bench.
-    "ollama~=0.1.8"
-    "distro~=1.9.0"
-    "openai~=1.20.0"
+    "ollama~=0.1.8",
+    "distro~=1.9.0",
+    "openai~=1.20.0",
     "tqdm~=4.66.2"
 ]
 
